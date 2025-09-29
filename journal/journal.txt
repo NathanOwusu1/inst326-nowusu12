@@ -14,3 +14,11 @@ nowusu12@terpmail.umd.edu
 Section 0301
 
 This week I used ai to help me prepare for my entrepreneurship quiz review questions about motivation, self-efficacy, and growth mindset. Chat Gpt helped me create review questions and a practice quiz based on the content from the class. This helped me get a perfect score on my quiz while using minimal effort to study.
+
+AI Usage Journal
+Nathan Owusu
+nowusu12@terpmail.umd.edu
+Section 0301
+This week I used Chat gpt to help me with my programming exercises. I asked for explanations of concepts like how to normalize a string in Python, how to check availability in a list of booleans, and how to use loops to count items. It gave me examples of how functions could be used and explained the difference between the exact matches and fuzzy matches in searching.
+I also used AI to help debugg, when I accidentally left extra code (pass) in one of my functions, which caused errors. The AI pointed out what was wrong and showed me the corrected version.
+Overall, I tried to write most of the code on my own, but when I got stuck, I used AI as a tutor to explain what the code should do, or to check that my logic was correct. 
