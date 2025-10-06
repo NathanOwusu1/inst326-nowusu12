@@ -22,3 +22,13 @@ Section 0301
 This week I used Chat gpt to help me with my programming exercises. I asked for explanations of concepts like how to normalize a string in Python, how to check availability in a list of booleans, and how to use loops to count items. It gave me examples of how functions could be used and explained the difference between the exact matches and fuzzy matches in searching.
 I also used AI to help debugg, when I accidentally left extra code (pass) in one of my functions, which caused errors. The AI pointed out what was wrong and showed me the corrected version.
 Overall, I tried to write most of the code on my own, but when I got stuck, I used AI as a tutor to explain what the code should do, or to check that my logic was correct. 
+
+AI Usage Journal – Week 4
+Nathan Owusu
+nowusu12@terpmail.umd.edu
+Section 0301
+This week, I used  ChatGPT to help me with the Week 4 programming exercises that were concentrated on classes and objects. I wanted help on the structure of defining classes using __init__ methods and instance methods. For example, I used it to help me think through how to track copies of books, how to format ISBN numbers, and how to manage user notes in a class based program.
+ I also used AI to confirm my logic and assure an example, if I was not sure how to add or manage object attributes, like counters or booleans. It also assisted in debugging small mistakes, like forgetting to return, and/list upon initialization in constructors.
+Overall, I wrote most of the code myself and looked at AI as an assistant in learning. It helped clarify the structure of a class, along with confirming my understanding of the requirements of the class exercises.
+
+
