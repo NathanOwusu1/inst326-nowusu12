@@ -31,4 +31,11 @@ This week, I used  ChatGPT to help me with the Week 4 programming exercises that
  I also used AI to confirm my logic and assure an example, if I was not sure how to add or manage object attributes, like counters or booleans. It also assisted in debugging small mistakes, like forgetting to return, and/list upon initialization in constructors.
 Overall, I wrote most of the code myself and looked at AI as an assistant in learning. It helped clarify the structure of a class, along with confirming my understanding of the requirements of the class exercises.
 
+AI Usage Journal – Week 5
+Nathan Owusu
+nowusu12@terpmail.umd.edu
+Section 0301
+This week, I used ChatGPT to help me understand encapsulation and data hiding in Python. I asked for examples of how to create protected and private attributes, use getters and setters, and double check data using @property. I also used it to help me debugg and fix errors in my code for the class exercises.
+Overall, ai helped me clarify concepts and double check the code I wrote myself. It was useful for learning how to structure clean, well-encapsulated classes.
+
 
