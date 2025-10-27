@@ -38,4 +38,10 @@ Section 0301
 This week, I used ChatGPT to help me understand encapsulation and data hiding in Python. I asked for examples of how to create protected and private attributes, use getters and setters, and double check data using @property. I also used it to help me debugg and fix errors in my code for the class exercises.
 Overall, ai helped me clarify concepts and double check the code I wrote myself. It was useful for learning how to structure clean, well-encapsulated classes.
 
+AI Usage Journal – Week 6
+Nathan Owusu
+nowusu12@terpmail.umd.edu
+Section 0301
+This week I continued to work on my programming exercises in Python for Week 6. I asked ChatGPT of the differences between instance methods, class methods, and static methods and it provided short examples and outlined when to use each based on the assigned homework and helped me to better understand the classified concepts of the homework. I also used ChatGPT to assist with assisting my debugging process and reasoning through aspects programmed within the code that were more challenging for my level of practice e.g. date calculations, appropriate class-wide counters, etc.
+
 
