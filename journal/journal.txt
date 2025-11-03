@@ -44,4 +44,11 @@ nowusu12@terpmail.umd.edu
 Section 0301
 This week I continued to work on my programming exercises in Python for Week 6. I asked ChatGPT of the differences between instance methods, class methods, and static methods and it provided short examples and outlined when to use each based on the assigned homework and helped me to better understand the classified concepts of the homework. I also used ChatGPT to assist with assisting my debugging process and reasoning through aspects programmed within the code that were more challenging for my level of practice e.g. date calculations, appropriate class-wide counters, etc.
 
+AI Usage Journal – Week 7
+Nathan Owusu
+nowusu12@terpmail.umd.edu
+Section 0301
+
+This week I used ChatGPT to help me with the Week 7 programming exercises on exception handling and unit testing. The topics included try/except/else/finally blocks, creating and raising custom exceptions, and writing unittest test cases. I used chat gpt mainly as a guide to better understand how to handle different error types correctly and how to write clear, readable test cases for each function.
+For example, it helped me structure functions like validate_isbn, parse_copies, and safe_load_catalog so they raised the right exceptions instead of crashing the program. It also explained how to use assertRaises and subTest in unittest to check multiple conditions efficiently. When I was confused about why a try/finally block was needed or how to catch a KeyboardInterrupt gracefully, the AI walked me through examples that made the logic much clearer.
 
