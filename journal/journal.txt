@@ -52,3 +52,10 @@ Section 0301
 This week I used ChatGPT to help me with the Week 7 programming exercises on exception handling and unit testing. The topics included try/except/else/finally blocks, creating and raising custom exceptions, and writing unittest test cases. I used chat gpt mainly as a guide to better understand how to handle different error types correctly and how to write clear, readable test cases for each function.
 For example, it helped me structure functions like validate_isbn, parse_copies, and safe_load_catalog so they raised the right exceptions instead of crashing the program. It also explained how to use assertRaises and subTest in unittest to check multiple conditions efficiently. When I was confused about why a try/finally block was needed or how to catch a KeyboardInterrupt gracefully, the AI walked me through examples that made the logic much clearer.
 
+AI Usage Journal – Week 8
+Nathan Owusu
+nowusu12@terpmail.umd.edu
+Section 0301
+This week I used ChatGPT to help me with the  programming exercises about inheritance, method overriding, and polymorphism. I asked it for help designing subclasses like PrintedBook, EBook, AudioBook, and ReferenceBook, and how to properly use super() when extending the base Book class. It explained how polymorphism allows each subclass to have its own behavior.
+I also used AI to check that my LoanDesk class followed good object- oriented principles especially distinguishing between composition and inheritance. It helped me understand how methods like checkout_message() and can_checkout() could be overridden to simplify logic and make the system more flexible. 
+
