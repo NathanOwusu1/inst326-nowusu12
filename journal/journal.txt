@@ -59,3 +59,9 @@ Section 0301
 This week I used ChatGPT to help me with the  programming exercises about inheritance, method overriding, and polymorphism. I asked it for help designing subclasses like PrintedBook, EBook, AudioBook, and ReferenceBook, and how to properly use super() when extending the base Book class. It explained how polymorphism allows each subclass to have its own behavior.
 I also used AI to check that my LoanDesk class followed good object- oriented principles especially distinguishing between composition and inheritance. It helped me understand how methods like checkout_message() and can_checkout() could be overridden to simplify logic and make the system more flexible. 
 
+AI Usage Journal – Week 9
+Nathan Owusu
+nowusu12@terpmail.umd.edu
+Section 0301
+This week I used ChatGPT to help me finish the Week 9 exercises focused on abstract base classes (ABCs), protocols, and interface design in Python. I used ai to help clarify how abstract methods, abstract properties, and template methods work together in an inheritance hierarchy. For example, I asked for help understanding why an abstract class cannot be instantiated and how Python raises a TypeError when abstract methods are not implemented. The explanations made it easier for me to write tests that check for this behavior.
+
