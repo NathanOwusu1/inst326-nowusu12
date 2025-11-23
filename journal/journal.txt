@@ -65,3 +65,9 @@ nowusu12@terpmail.umd.edu
 Section 0301
 This week I used ChatGPT to help me finish the Week 9 exercises focused on abstract base classes (ABCs), protocols, and interface design in Python. I used ai to help clarify how abstract methods, abstract properties, and template methods work together in an inheritance hierarchy. For example, I asked for help understanding why an abstract class cannot be instantiated and how Python raises a TypeError when abstract methods are not implemented. The explanations made it easier for me to write tests that check for this behavior.
 
+AI Usage Journal – Week 10
+Nathan Owusu
+nowusu12@terpmail.umd.edu
+Section 0301
+This week I used ChatGPT to help me understand the Week 10 exercises on the pythonsdata model. I used it mainly to clarify how to write @property setters that validate the input, how to use __post_init__ to normalize data, and how special methods like __len__, __contains__, and __iter__ should behave in a custom container class. I also used AI to double check the rules for writing __repr__ versus __str__, and how total_ordering affects sorting.ChatGPT helped me structure simple checks for title stripping, copy validation, and sorted iteration.
+
