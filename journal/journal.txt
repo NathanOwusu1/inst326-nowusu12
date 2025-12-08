@@ -71,3 +71,9 @@ nowusu12@terpmail.umd.edu
 Section 0301
 This week I used ChatGPT to help me understand the Week 10 exercises on the pythonsdata model. I used it mainly to clarify how to write @property setters that validate the input, how to use __post_init__ to normalize data, and how special methods like __len__, __contains__, and __iter__ should behave in a custom container class. I also used AI to double check the rules for writing __repr__ versus __str__, and how total_ordering affects sorting.ChatGPT helped me structure simple checks for title stripping, copy validation, and sorted iteration.
 
+AI Usage Journal – Week 12
+Nathan Owusu
+nowusu12@terpmail.umd.edu
+Section 0301
+This week I used ChatGPT for going over concepts and handling some of my small academic tasks rather than helping me with exercises. It helped me clarify some of the basic ideas from class discussions so I could prepare for my assignments. I also used AI to help revise a few emails to my professor for when I needed assistance.
+
